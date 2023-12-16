@@ -1,0 +1,15 @@
+0 - //header/div/ul/li//a
+
+1 - //ul[@class="x-refine__left__nav"]//h3
+
+2 - //ul[@class="x-refine__left__nav"]//h3[text()="Brand"]
+    //ul[@class="x-refine__left__nav"]//h3[text()="Color"]
+
+3 - //ul[@class="x-refine__left__nav"]//h3[text()="Brand"]/parent::div/parent::div/parent::li//li[@name="Brand"]//input[@aria-label="adidas"]
+    //ul[@class="x-refine__left__nav"]//h3[text()="Color"]/parent::div/parent::div/parent::li//li[@name="Color"]//input[@aria-label="Blue"]
+
+4 - //ul[@class="srp-results srp-grid clearfix"]/li[@class="s-item s-item__pl-on-bottom"]//span[@role="heading"]/text()[contains(translate(., 'ABCDEFGHIJKLMNOPQRSTUVWXYZ','abcdefghijklmnopqrstuvwxyz'), 'huacud mens running shoes trail sneakers air cushion non-slip athletic size 10')]
+
+5 - //div[@class="gh-submenu gh-eb-o"]/ul/li/a
+Right-click on the element and navigate to the "sources" tab in the inspector, then hover over the element to expand it and press CMD + \ on the keyboard. 
+
