@@ -1,0 +1,38 @@
+0. type()
+1. id()
+2. No
+3. Yes
+4. Yes
+5. No
+6. True
+7. True
+8. True
+9. True
+10. True
+11. False
+12. True
+13. True
+14. [1, 2, 3, 4]
+15. [1, 2, 3]
+16. 1
+17. [1, 2, 3, 4]
+18. [1, 2, 3]
+19.
+	True
+	False
+	True
+	False
+19. 
+	True
+	True
+	True
+	False
+20. Yes
+21. Yes
+22. No
+23. Yes
+24. True (without print command - nothing)
+25. True (without print command - nothing)
+26. True (without print command - nothing)
+27. NameError
+28. NameError
